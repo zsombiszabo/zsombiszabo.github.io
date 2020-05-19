@@ -1,0 +1,45 @@
+body{
+	margin: 0px;
+	background: #00CED1;
+	font-family: arial;
+}
+
+header
+{
+	margin: 0px;
+	background: #F8F8FF;
+	padding: 5%;
+}
+
+header h1
+{
+	margin: 0px;
+	
+}
+
+nav ul{
+	margin: 5%;
+	padding: 2,5%;
+}
+
+nav ul li{
+	background-color: #ADFF2F;
+	display: inline;
+	padding: 10px 20px;
+	margin:10px;
+	border-radius: 8px;
+}
+
+
+.resize{
+	width: 500px;
+	height: auto;
+}
+img{
+	border-radius: 12.5%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	max-height: 50%;
+}
